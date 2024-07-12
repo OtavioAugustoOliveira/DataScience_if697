@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/4953fc7ae7b1402bb629312c50eb67b4/artifacts
+end_time: 1720747710171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4953fc7ae7b1402bb629312c50eb67b4
+run_name: Best Model - Random Forest
+run_uuid: 4953fc7ae7b1402bb629312c50eb67b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720747706956
+status: 3
+tags: []
+user_id: Otavio

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/d33f07bc5e8f4a7fa6f42c1965695b23/artifacts
+end_time: 1720748574150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d33f07bc5e8f4a7fa6f42c1965695b23
+run_name: Logistic Regression
+run_uuid: d33f07bc5e8f4a7fa6f42c1965695b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720748570044
+status: 3
+tags: []
+user_id: Otavio

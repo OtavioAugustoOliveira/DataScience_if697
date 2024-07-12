@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/8047123e60ed47b0a23970c962ca44a0/artifacts
+end_time: 1720747849210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8047123e60ed47b0a23970c962ca44a0
+run_name: Best Model - Support Vector Machine
+run_uuid: 8047123e60ed47b0a23970c962ca44a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720747845819
+status: 3
+tags: []
+user_id: Otavio

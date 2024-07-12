@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/24f2c826001a4a5bb37f4c9f9bdc8c02/artifacts
+end_time: 1720745017163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24f2c826001a4a5bb37f4c9f9bdc8c02
+run_name: Random Forest
+run_uuid: 24f2c826001a4a5bb37f4c9f9bdc8c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720744994347
+status: 3
+tags: []
+user_id: Otavio

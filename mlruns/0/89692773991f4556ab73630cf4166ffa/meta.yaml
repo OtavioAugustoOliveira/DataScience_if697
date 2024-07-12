@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/89692773991f4556ab73630cf4166ffa/artifacts
+end_time: 1720746952813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89692773991f4556ab73630cf4166ffa
+run_name: Support Vector Machine
+run_uuid: 89692773991f4556ab73630cf4166ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720746947108
+status: 3
+tags: []
+user_id: Otavio

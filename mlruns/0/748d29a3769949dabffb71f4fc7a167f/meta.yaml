@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/748d29a3769949dabffb71f4fc7a167f/artifacts
+end_time: 1720746612619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 748d29a3769949dabffb71f4fc7a167f
+run_name: Decision Tree
+run_uuid: 748d29a3769949dabffb71f4fc7a167f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720746608962
+status: 3
+tags: []
+user_id: Otavio

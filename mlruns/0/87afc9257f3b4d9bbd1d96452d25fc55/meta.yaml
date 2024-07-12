@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/87afc9257f3b4d9bbd1d96452d25fc55/artifacts
+end_time: 1720748583759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87afc9257f3b4d9bbd1d96452d25fc55
+run_name: Best Model - Logistic Regression
+run_uuid: 87afc9257f3b4d9bbd1d96452d25fc55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720748579800
+status: 3
+tags: []
+user_id: Otavio

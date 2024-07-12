@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Otavio/Desktop/DataScience_if697/mlruns/0/b661d45e6611450994cec95578fb6b25/artifacts
+end_time: 1720746143507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b661d45e6611450994cec95578fb6b25
+run_name: Best Model - Decision Tree
+run_uuid: b661d45e6611450994cec95578fb6b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720746140270
+status: 3
+tags: []
+user_id: Otavio
